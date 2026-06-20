@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +33,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
