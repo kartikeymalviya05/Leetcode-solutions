@@ -52,4 +52,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
