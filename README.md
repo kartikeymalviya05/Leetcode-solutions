@@ -35,6 +35,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
