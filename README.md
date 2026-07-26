@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
@@ -57,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kartikeymalviya05/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
